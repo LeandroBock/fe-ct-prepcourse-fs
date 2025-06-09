@@ -2,6 +2,6 @@
 var saludo = 'hola'
 // Reemplaza el valor de null por el correspondiente.
 
-const nuevoString = null;
+const nuevoString = saludo;
 
 module.exports = nuevoString;
