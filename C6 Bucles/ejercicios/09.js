@@ -10,7 +10,7 @@ if(status === 1){
 }else if(status === 2){
   return "Away"
 }else{
-  return "Offline"
+   return "Offline"
 }
 }
 module.exports = conection;
